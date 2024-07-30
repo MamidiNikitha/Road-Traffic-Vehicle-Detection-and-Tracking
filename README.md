@@ -1,6 +1,6 @@
 
 ```
-cd YOLOv8-Object-Detection-with-DeepSORT-Tracking
+cd Road-Traffic-Vehicle-Detection-and-Tracking
 ```
 
 - Install the ultralytics package
